@@ -48,9 +48,10 @@ Note that if you use the admin plugin, a file with your configuration, and named
 
 ## Credits
 
-**Did you incorporate third-party code? Want to thank somebody?**
+This project use [CKEditor 5](https://ckeditor.com/ckeditor-5/) A set of ready to use rich text editors created with a powerful framework.
 
 ## To Do
 
-- [ ] Future plans, if any
-
+- [ ] Add Markdown support
+- [ ] Add configurable options
+- [ ] Add configurable label for fields

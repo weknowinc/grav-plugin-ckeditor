@@ -5,11 +5,11 @@ icon: plug
 author:
   name: Jesus Manuel Olivas
   email: jesus.olivas@gmail.com
-homepage: https://github.com/jmolivas/grav-plugin-ckeditor
-demo: http://demo.yoursite.com
-keywords: grav, plugin, etc
-bugs: https://github.com/jmolivas/grav-plugin-ckeditor/issues
-docs: https://github.com/jmolivas/grav-plugin-ckeditor/blob/develop/README.md
+homepage: https://github.com/weknowinc/grav-plugin-ckeditor
+#demo: http://demo.yoursite.com
+keywords: grav, plugin, editor, markdown, wysiwyg
+bugs: https://github.com/weknowinc/grav-plugin-ckeditor/issues
+docs: https://github.com/weknowinc/grav-plugin-ckeditor/blob/master/README.md
 license: MIT
 
 form:
