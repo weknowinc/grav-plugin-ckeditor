@@ -1,0 +1,27 @@
+name: Ckeditor
+version: 0.1.0
+description: ckeditor
+icon: plug
+author:
+  name: Jesus Manuel Olivas
+  email: jesus.olivas@gmail.com
+homepage: https://github.com/jmolivas/grav-plugin-ckeditor
+demo: http://demo.yoursite.com
+keywords: grav, plugin, etc
+bugs: https://github.com/jmolivas/grav-plugin-ckeditor/issues
+docs: https://github.com/jmolivas/grav-plugin-ckeditor/blob/develop/README.md
+license: MIT
+
+form:
+  validation: strict
+  fields:
+    enabled:
+      type: toggle
+      label: Plugin status
+      highlight: 1
+      default: 0
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
