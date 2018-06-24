@@ -52,6 +52,7 @@ This project use [CKEditor 5](https://ckeditor.com/ckeditor-5/) A set of ready t
 
 ## To Do
 
+- [ ] Add usage instructions
 - [ ] Add Markdown support
 - [ ] Add configurable options
 - [ ] Add configurable label for fields
